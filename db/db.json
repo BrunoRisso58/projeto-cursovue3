@@ -78,27 +78,6 @@
     }
   ],
   "burgers": [
-    {
-      "nome": "Bruno",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "Jú",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Cheddar",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    }
+    
   ]
 }
