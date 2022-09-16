@@ -78,6 +78,16 @@
     }
   ],
   "burgers": [
-    
+    {
+      "nome": "Bruno",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Tomate",
+        "Cheddar"
+      ],
+      "status": "Em produção",
+      "id": 1
+    }
   ]
 }
